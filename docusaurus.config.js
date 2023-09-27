@@ -72,9 +72,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'documentationSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -88,11 +88,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Docs Quicklinks',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Events',
+                to: '/docs/category/events',
+              },
+              {
+                label: 'Conditions',
+                to: '/docs/category/conditions',
+              },
+              {
+                label: 'Actions',
+                to: '/docs/category/actions',
               },
             ],
           },
