@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Usercentrics Extension',
+  tagline: 'for Adobe Experience Platform Data Collection',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Usercentrics Extension',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -125,17 +125,25 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'diva-e',
+                href: 'https://www.diva-e.com/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Usercentrics',
+                href: 'https://usercentrics.com/pricing/?partnerid=15493',
+              },
+              {
+                label: 'Extension in Adobe Exchange',
+                href: 'https://exchange.adobe.com/apps/ec/107037/consent-management-by-usercentrics-cmp-v2',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `diva-e © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
