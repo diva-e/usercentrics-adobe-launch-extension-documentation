@@ -20,6 +20,7 @@
   background-image:
           linear-gradient(rgba(231, 231, 231, 0.8) -10%, rgba(0, 0, 0, 0.0)),
           url("/img/diva-e/active_line--dark.png");
+  background-size: cover;
 }
 
 @media screen and (max-width: 996px) {

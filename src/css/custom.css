@@ -59,6 +59,7 @@
 
   --ifm-font-color-base: var(--ci-bluish-white);
   --ifm-color-content-inverse: var(--ci-deep-blue);
+  --ifm-background-surface-color: var(--ci-deep-blue) !important;
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
