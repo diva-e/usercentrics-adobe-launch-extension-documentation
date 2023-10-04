@@ -107,19 +107,23 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Usercentrics',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Homepage',
+                href: 'https://usercentrics.com/pricing/?partnerid=15493',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'diva-e in partner listing',
+                href: 'https://usercentrics.com/partner-network/diva-e-integration/?partnerid=15493',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Blog article',
+                href: 'https://usercentrics.com/press/integrating-usercentrics-via-adobe-launch/?partnerid=15493',
+              },
+              {
+                label: 'Integration overview',
+                href: 'https://usercentrics.com/partner-integrations/adobe/?partnerid=15493',
               },
             ],
           },
@@ -129,10 +133,6 @@ const config = {
               {
                 label: 'diva-e',
                 href: 'https://www.diva-e.com/',
-              },
-              {
-                label: 'Usercentrics',
-                href: 'https://usercentrics.com/pricing/?partnerid=15493',
               },
               {
                 label: 'Extension in Adobe Exchange',
