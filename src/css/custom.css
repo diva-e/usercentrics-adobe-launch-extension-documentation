@@ -4,27 +4,76 @@
  * work well for content-centric websites.
  */
 
+/* CI colors for reuse */
+:root {
+  --ci-deep-blue: #081235;
+  --ci-deep-blue-light: #0B1858;
+  --ci-deep-blue-lighter: #0E1C78;
+  --ci-deep-blue-lightest: #12229A;
+  --ci-digital-blue-darkest: var(--ci-deep-blue-lightest);
+  --ci-digital-blue-darker: #1414BC;
+  --ci-digital-blue-dark: #182CDC;
+  --ci-digital-blue: #1B31FF;
+  --ci-digital-blue-light: #3E52FE;
+  --ci-digital-blue-lighter: #6272FE;
+  --ci-digital-blue-lightest: #8490FE;
+  --ci-bluish-white-darkest: var(--ci-digital-blue-lightest);
+  --ci-bluish-white-darker: #A8B0FC;
+  --ci-bluish-white-dark: #CAD0FC;
+  --ci-bluish-white: #EDF0FB;
+
+  --ci-bright-green: #A7FF71;
+  --ci-warm-purple: #9C73F3;
+}
+
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-background-color: var(--ci-bluish-white);
+
+  --ifm-color-primary: var(--ci-digital-blue);
+  --ifm-color-primary-dark: var(--ci-digital-blue-dark);
+  --ifm-color-primary-darker: var(--ci-digital-blue-darker);
+  --ifm-color-primary-darkest: var(--ci-digital-blue-darkest);
+  --ifm-color-primary-light: var(--ci-digital-blue-light);
+  --ifm-color-primary-lighter: var(--ci-digital-blue-lighter);
+  --ifm-color-primary-lightest: var(--ci-digital-blue-lightest);
+
+  --ifm-font-color-base: var(--ci-deep-blue);
+  --ifm-color-content-inverse: var(--ci-bluish-white);
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-background-color: var(--ci-deep-blue) !important;
+
+  --ifm-color-primary: var(--ci-warm-purple);
+  --ifm-color-primary-dark: var(--ci-warm-purple);
+  --ifm-color-primary-darker: var(--ci-warm-purple);
+  --ifm-color-primary-darkest: var(--ci-warm-purple);
+  --ifm-color-primary-light: var(--ci-warm-purple);
+  --ifm-color-primary-lighter: var(--ci-warm-purple);
+  --ifm-color-primary-lightest: var(--ci-warm-purple);
+
+  --ifm-font-color-base: var(--ci-bluish-white);
+  --ifm-color-content-inverse: var(--ci-deep-blue);
+
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Component styling */
+.footer--dark {
+  background-color: var(--ci-deep-blue);
+  color: var(--ci-bluish-white);
+  --ifm-footer-title-color: var(--ci-bluish-white);
+  --ifm-footer-link-color: var(--ci-bluish-white-dark);
+}
+
+[data-theme='dark'] .footer--dark {
+  background-color: var(--ci-bluish-white);
+  color: var(--ci-deep-blue);
+  --ifm-footer-title-color: var(--ci-deep-blue);
+  --ifm-footer-link-color: var(--ci-deep-blue-light);
 }
