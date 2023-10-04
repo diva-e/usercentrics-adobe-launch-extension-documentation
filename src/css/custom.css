@@ -38,7 +38,8 @@
   --ifm-color-primary-lighter: var(--ci-digital-blue-lighter);
   --ifm-color-primary-lightest: var(--ci-digital-blue-lightest);
 
-  --ifm-font-color-base: var(--ci-deep-blue);
+  --ifm-color-content: var(--ci-deep-blue);
+  --ifm-color-content-secondary: var(--ci-deep-blue-lighter);
   --ifm-color-content-inverse: var(--ci-bluish-white);
 
   --ifm-code-font-size: 95%;
@@ -57,8 +58,10 @@
   --ifm-color-primary-lighter: var(--ci-warm-purple);
   --ifm-color-primary-lightest: var(--ci-warm-purple);
 
-  --ifm-font-color-base: var(--ci-bluish-white);
+  --ifm-color-content: var(--ci-bluish-white) !important;
+  --ifm-color-content-secondary: var(--ci-bluish-white-dark) !important;
   --ifm-color-content-inverse: var(--ci-deep-blue);
+
   --ifm-background-surface-color: var(--ci-deep-blue) !important;
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
