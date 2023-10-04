@@ -5,9 +5,21 @@
 
 .heroBanner {
   padding: 4rem 0;
-  text-align: center;
+  text-align: left;
   position: relative;
   overflow: hidden;
+  background-image:
+          linear-gradient(rgba(52, 52, 52, 0.8) 40%, rgba(255, 255, 255, 0.0) 90%),
+          url("/img/diva-e/active_line--light.png");
+  background-size: cover;
+}
+
+[data-theme='dark'] .heroBanner {
+  --ifm-heading-color: var(--ci-deep-blue);
+  --ifm-hero-text-color: var(--ci-deep-blue);
+  background-image:
+          linear-gradient(rgba(231, 231, 231, 0.8) -10%, rgba(0, 0, 0, 0.0)),
+          url("/img/diva-e/active_line--dark.png");
 }
 
 @media screen and (max-width: 996px) {
@@ -19,5 +31,5 @@
 .buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
 }
