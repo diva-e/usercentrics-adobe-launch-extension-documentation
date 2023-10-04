@@ -11,31 +11,33 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw.co/undraw_performance_overview_re_mqrq.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The extension makes it faster and easier for Adobe customers to easily connect their Usercentrics
+        Consent Management Platform. Then you’re all set to achieve privacy compliance and obtain
+        customer consent for data collection.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Cooperation with Usercentrics',
+    Svg: require('@site/static/img/undraw.co/undraw_our_solution_re_8yk6.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        As a Usercentrics partner, we worked closely together to ensure that our extension is fully compatible
+        with the CMP v2 and is equipped with all the tools you need to evaluate and act on the user's consent.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Battle tested',
+    Svg: require('@site/static/img/undraw.co/undraw_track_and_field_-33-qn.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We use our extension ourselves, so we know how important it is to be reliable and easy to use.
+        We've also received feedback from other implementors who are really happy to have it, and their
+        feedback has helped us to improve the extension.
       </>
     ),
   },
