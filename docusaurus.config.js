@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'diva-e',
+  projectName: 'usercentrics-extension-documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,8 +66,10 @@ const config = {
       navbar: {
         title: 'Usercentrics Extension',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'diva-e logo',
+          src: 'img/diva-e_logo_DeepBlue_RGB.svg',
+          srcDark: 'img/diva-e_logo_BluishWhite_RGB.svg',
+          className: 'navbar__logo'
         },
         items: [
           {
