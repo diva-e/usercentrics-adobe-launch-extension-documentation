@@ -67,8 +67,8 @@ const config = {
         title: 'Usercentrics Extension',
         logo: {
           alt: 'diva-e logo',
-          src: 'img/diva-e_logo_DeepBlue_RGB.svg',
-          srcDark: 'img/diva-e_logo_BluishWhite_RGB.svg',
+          src: 'img/diva-e/logo_DeepBlue_RGB.svg',
+          srcDark: 'img/diva-e/logo_BluishWhite_RGB.svg',
           className: 'navbar__logo'
         },
         items: [
