@@ -6,7 +6,7 @@ description: ''
 
 # Load Usercentrics
 
-Loads the Usercentrics (V2) CMP and applies the Usercentrics consents to the ECID opt-in framework if enabled over the extension’s configuration page. 
+Loads the Usercentrics (V2) CMP and applies the Usercentrics consents to the ECID Opt-In framework if enabled in the extension’s configuration page.
 
 :::danger Loading order
 
