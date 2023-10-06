@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Usercentrics Extension',
+  title: 'Usercentrics Adobe Launch Extension',
   tagline: 'for Adobe Experience Platform Data Collection',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.jpg',
       navbar: {
-        title: 'Usercentrics Extension',
+        title: 'Usercentrics Adobe Launch Extension',
         logo: {
           alt: 'diva-e logo',
           src: 'img/diva-e/logo_DeepBlue_RGB.svg',
