@@ -143,6 +143,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/diva-e/usercentrics-adobe-launch-extension-documentation',
+              },
             ],
           },
         ],
