@@ -81,6 +81,11 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            type: 'docsVersionDropdown',
+            position: 'right',
+            dropdownActiveClassDisabled: true,
+          },
+          {
             href: 'https://exchange.adobe.com/apps/ec/107037/consent-management-by-usercentrics-cmp-v2',
             label: 'Adobe Exchange',
             position: 'right',
