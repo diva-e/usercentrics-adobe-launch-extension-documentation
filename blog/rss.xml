@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Usercentrics Adobe Launch Extension Blog</title>
+        <link>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog</link>
+        <description>Usercentrics Adobe Launch Extension Blog</description>
+        <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[New documentation platform]]></title>
+            <link>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/new-documentation-platform</link>
+            <guid>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/new-documentation-platform</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[🎉 It's live! 🥳 We've revamped our documentation. We hope you like it!]]></description>
+            <content:encoded><![CDATA[<p>🎉 <em>It's live!</em> 🥳 We've revamped our documentation. We hope you like it!</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Help wanted</div><div class="admonitionContent_S0QG"><p>We are <strong><em>open to contributions</em></strong> and are grateful for every GitHub pull request.</p></div></div><p>Before it was a PowerPoint presentation exported as a PDF. It was ok, but not really great to handle / look up certain
+things. We've now moved to a new documentation platform called <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p><p>Since we are basing on Docusaurus many people will be familiar with the structure and looks
+of the documentation. The information is now also more structured and easier to find.</p><p>We also hope that we will receive pull requests. <strong><em>Yes! You can help us improve the documentation</em></strong>. It doesn't matter
+if it is a small typo fix or a bigger change. We are happy about every contribution! Maybe you have a great idea for a
+new <a href="/usercentrics-adobe-launch-extension-documentation/docs/category/examples">example</a>, so that others can learn from it.</p><p>Below you see a <code>Edit this page</code> link, which will take you directly to the corresponding GitHub page of the
+documentation.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

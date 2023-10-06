@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusercentrics_extension_documentation=self.webpackChunkusercentrics_extension_documentation||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New documentation platform","permalink":"/usercentrics-adobe-launch-extension-documentation/blog/new-documentation-platform"}]}')}}]);
