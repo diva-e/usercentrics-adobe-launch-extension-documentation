@@ -2,6 +2,10 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+### Node Version
+
+Use `v18.18.0`. There is also a `.nvmrc` file in the root of the project, execute `nvm use` to switch to the correct version, if you are already using [nvm](https://github.com/nvm-sh/nvm).
+
 ### Installation
 
 ```
