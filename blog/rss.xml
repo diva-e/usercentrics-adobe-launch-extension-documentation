@@ -4,10 +4,19 @@
         <title>Usercentrics Adobe Launch Extension Blog</title>
         <link>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog</link>
         <description>Usercentrics Adobe Launch Extension Blog</description>
-        <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Documentation Versioning]]></title>
+            <link>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/documentation-versioning</link>
+            <guid>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/documentation-versioning</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We implemented versioning of our documentation. This means that you can now see the documentation for a specific version]]></description>
+            <content:encoded><![CDATA[<p>We implemented versioning of our documentation. This means that you can now see the documentation for a specific version
+of the extension.</p><p>This is useful if you are using an older version and did not update the extension in Adobe Launch yet.</p><p>There is a version dropdown in the navbar:</p><p><img loading="lazy" alt="Version Dropdown" src="/usercentrics-adobe-launch-extension-documentation/assets/images/version-dropdown-df1fcfa20b72050804520da849d8da18.png" width="1149" height="431" class="img_ev3q"></p><p>By default, the current version is displayed. As of writing it is the 1.0.6 which is matching the currently released extension version.</p><p>If you have an older version installed, you can choose it there.</p><p>The "Next" version is our work in progress state for the next version of the extension and documentation.</p><p>You will also see a hint, in case you open the wrong version by mistake:</p><p><img loading="lazy" alt="Next Version Hint" src="/usercentrics-adobe-launch-extension-documentation/assets/images/next-version-hint-86c66bf460178163c490d91e0967ea9c.png" width="1144" height="361" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New documentation platform]]></title>
             <link>https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/new-documentation-platform</link>

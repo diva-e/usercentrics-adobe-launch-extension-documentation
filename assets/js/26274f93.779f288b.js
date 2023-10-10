@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusercentrics_extension_documentation=self.webpackChunkusercentrics_extension_documentation||[]).push([[576],{8746:e=>{e.exports=JSON.parse('{"permalink":"/usercentrics-adobe-launch-extension-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
