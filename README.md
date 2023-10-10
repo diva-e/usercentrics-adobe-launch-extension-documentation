@@ -20,6 +20,20 @@ $ yarn start
 
 These commands start a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+# Versioning
+
+We also provide older versions of this documentation in case a user needs to read an older version. For more information see our [blog entry about documentation versioning](https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/documentation-versioning).
+
+For more information how to handle this technically refer to [Docusaurus Versioning doc](https://docusaurus.io/docs/versioning).
+
+To create a new version of the documentation execute the following command:
+
+```
+yarn docusaurus docs:version 1.7.0
+```
+
+This will create a new version 1.7.0 copying the current "next" state to the 1.7.0 folders.
+
 # Deployment
 
 GitHub Actions are used for deployments and verification.
