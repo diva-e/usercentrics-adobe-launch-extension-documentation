@@ -14,7 +14,7 @@ The extension comes with some predefined DPS that can be used. If you do not use
 * When using the ECID Opt-In framework, those will not be evaluated.
 * Generally, a deactivated DPS is not evaluated anywhere.
 
-![DataProcessingServices.png](./img/DataProcessingServices.png)
+![DataProcessingServices.png](./img/default_dps.png)
 
 ## Custom Data Processing Services
 

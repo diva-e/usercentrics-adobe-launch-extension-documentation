@@ -14,5 +14,5 @@ If the consent for an initial page view and a new user is already given (for exa
 
 :::
 
-![Consent_Update.png](./img/Consent_Update.png)
+![Consent_Update.png](./img/update.png)
 
