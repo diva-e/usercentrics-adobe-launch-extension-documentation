@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusercentrics_extension_documentation=self.webpackChunkusercentrics_extension_documentation||[]).push([[8359],{8:e=>{e.exports=JSON.parse('{"label":"release","permalink":"/usercentrics-adobe-launch-extension-documentation/blog/tags/release","allTagsPath":"/usercentrics-adobe-launch-extension-documentation/blog/tags","count":1}')}}]);

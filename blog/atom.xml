@@ -22,6 +22,7 @@
             <name>Dinh Bao Dang</name>
             <uri>https://github.com/chillinPanda</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Documentation Versioning]]></title>
