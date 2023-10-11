@@ -10,16 +10,16 @@ description: 'How to load Adobe Target with and without ECID.'
 
 ### Experience Cloud ID Service extension config
 
-![Opt-in_ECID_Service.png](./img/opt-in_ecid_service.png)
+![Experience Cloud ID Service extension config](./img/opt-in_ecid_service.png)
 
 ### Adobe Target extension config
 
-![Opt-in_Target.png](./img/opt-in_target.png)
+![Adobe Target extension config](./img/opt-in_target.png)
 
 ### Rule for loading Adobe Target
 
-![load_target_with_ecid.png](./img/load_target_with_ecid.png)
+![rule for loading Adobe Target](./img/load_target_with_ecid.png)
 
 ## Without the ECID-Feature enabled
 
-![load_target_without_ecid.png](./img/load_target_without_ecid.png)
+![rule for Adobe Target without the ECID-Feature enabled](./img/load_target_without_ecid.png)

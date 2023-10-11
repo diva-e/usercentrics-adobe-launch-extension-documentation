@@ -14,4 +14,4 @@ To ensure that the CMP is loaded first, the order should be set to 1 for the "Li
 
 :::
 
-![load_cmp.png](./img/load_cmp.png)
+![load Usercentrics action in a rule](./img/load_cmp.png)

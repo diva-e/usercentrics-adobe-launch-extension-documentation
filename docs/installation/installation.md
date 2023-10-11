@@ -7,4 +7,4 @@ sidebar_position: 2
 
 Instructions for installing an Adobe Launch Extension can be found here: https://spark.adobe.com/page/trbNLNNIuIrmj/
 
-![store.png](./img/store.png)
+![extension in the adobe launch catalog](./img/store.png)

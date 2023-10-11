@@ -14,4 +14,4 @@ https://docs.usercentrics.com/#/v2-events?id=app-initialization-browser-ui
 
 :::
 
-![Initialized.png](./img/initialized.png)
+![initialized event in a rule](./img/initialized.png)

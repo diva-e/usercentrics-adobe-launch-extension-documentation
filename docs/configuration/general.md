@@ -12,7 +12,7 @@ description: 'Required and optional settings.'
 
 Settings-ID of the relevant Usercentrics account. Can be found in the Usercentrics Admin Interface. This is needed to build the script-tag that will be placed on your website to launch usercentrics.
 
-![configuration.png](./img/configuration.png)
+![extension configuration page](./img/configuration.png)
 
 ### Window Event Name
 

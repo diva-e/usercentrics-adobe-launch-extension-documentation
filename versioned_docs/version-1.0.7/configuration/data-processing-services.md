@@ -14,7 +14,7 @@ The extension comes with some predefined DPS that can be used. If you do not use
 * When using the ECID Opt-In framework, those will not be evaluated.
 * Generally, a deactivated DPS is not evaluated anywhere.
 
-![DataProcessingServices.png](./img/default_dps.png)
+![extension configuration: default data processing services (DPS)](./img/default_dps.png)
 
 ## Custom Data Processing Services
 
@@ -22,4 +22,4 @@ If you use a DPS that is not listed in the default section (see above), you can 
 
 The Service Name is not used for evaluating consent, the Template-ID is the important data. The Service Name is only used to assign a human-readable name for the Template-ID inside the extension, e.g. when using it in a Consent Given condition. You may change the name at any point, the evaluations will keep working, since the Template-ID is used internally.
 
-![custom_dps.png](./img/custom_dps.png)
+![extension configuration: custom data processing services (DPS)](./img/custom_dps.png)

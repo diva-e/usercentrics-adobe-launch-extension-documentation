@@ -13,7 +13,7 @@ This is useful if you are using an older version and did not update the extensio
 
 There is a version dropdown in the navbar:
 
-![Version Dropdown](version-dropdown.png)
+![opened version dropdown in the navbar](version-dropdown.png)
 
 By default, the current version is displayed. As of writing it is the 1.0.6 which is matching the currently released extension version.
 
@@ -23,4 +23,4 @@ The "Next" version is our work in progress state for the next version of the ext
 
 You will also see a hint, in case you open the wrong version by mistake:
 
-![Next Version Hint](next-version-hint.png)
+![next version hint on top of a documentation page](next-version-hint.png)

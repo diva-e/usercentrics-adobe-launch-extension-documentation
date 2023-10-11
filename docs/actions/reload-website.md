@@ -14,4 +14,4 @@ This is an optional action that is not necessarily required for an implementatio
 
 :::
 
-![reload.png](./img/reload.png)
+![reload website action in a rule](./img/reload.png)
