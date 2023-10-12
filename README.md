@@ -46,3 +46,13 @@ GitHub Actions are used for deployments and verification.
 * Test for PRs
   * [test-deploy.yml](https://github.com/diva-e/usercentrics-adobe-launch-extension-documentation/blob/main/.github/workflows/test-deploy.yml)
   * This action is used in Pull Requests to verify that the website can be built.
+
+# Search
+
+* Under the hood we are using [Algolia DocSearch](https://docsearch.algolia.com/). It is a free service for open source projects. You can find more information about it in the [Algolia DocSearch documentation](https://docsearch.algolia.com/docs/what-is-docsearch).
+* More information about how to integrate it into Docusaurus can be found in the [Docusaurus Search documentation](https://docusaurus.io/docs/search#using-algolia-docsearch).
+* [Blog entry](https://diva-e.github.io/usercentrics-adobe-launch-extension-documentation/blog/site-search-available) announcing it.
+* First configuration was done in [a562940](https://github.com/diva-e/usercentrics-adobe-launch-extension-documentation/commit/a56294097a60b5a532b107433ccb7148cf9d77c6)
+* Algolia Dashboard: https://dashboard.algolia.com/apps/U4AT9EX1IK/dashboard
+  * [Bao](https://github.com/chillinPanda) and [Chris](https://github.com/likexy) have access to it.
+  * Trigger or get an overview of the crawls. Edit, update and see the index config.
