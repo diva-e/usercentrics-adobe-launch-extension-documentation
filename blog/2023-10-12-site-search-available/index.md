@@ -2,6 +2,7 @@
 slug: site-search-available
 title: Site Search available
 authors: bao
+tags: [doc-website]
 ---
 
 We added a search functionality to our documentation website 🎉 Now you can find the information you are looking for even faster.

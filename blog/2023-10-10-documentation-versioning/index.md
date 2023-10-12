@@ -2,6 +2,7 @@
 slug: documentation-versioning
 title: Documentation Versioning
 authors: bao
+tags: [doc-website]
 ---
 
 We implemented versioning of our documentation. This means that you can now see the documentation for a specific version 

@@ -2,6 +2,7 @@
 slug: new-documentation-platform
 title: New documentation platform
 authors: bao
+tags: [doc-website]
 ---
 
 🎉 *It's live!* 🥳 We've revamped our documentation. We hope you like it!
