@@ -171,6 +171,13 @@ const config = {
           // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
         }
       },
+      algolia: {
+        // more information about this search configuration: https://docusaurus.io/docs/search#connecting-algolia
+        appId: 'U4AT9EX1IK',
+        apiKey: 'a17fd5c53abb7ded1bbbc87d0ad671aa',
+        indexName: 'usercentrics-adobe-launch-extension-umentation',
+        contextualSearch: true,
+      },
     }),
 
   plugins: [
