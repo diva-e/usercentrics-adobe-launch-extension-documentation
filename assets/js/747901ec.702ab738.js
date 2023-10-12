@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusercentrics_extension_documentation=self.webpackChunkusercentrics_extension_documentation||[]).push([[908],{5965:e=>{e.exports=JSON.parse('{"label":"doc-website","permalink":"/usercentrics-adobe-launch-extension-documentation/blog/tags/doc-website","allTagsPath":"/usercentrics-adobe-launch-extension-documentation/blog/tags","count":3}')}}]);
